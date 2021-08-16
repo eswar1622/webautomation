@@ -6,8 +6,11 @@ import io.cucumber.java.en.When;
 
 public class StepDefinition {
 
+
+
 	@Given("the user is provided with application URL")
 	public void the_user_is_provided_with_application_url() {
+
 
 	}
 
